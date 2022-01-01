@@ -16,6 +16,22 @@
  * HTML, CSS
  * basic knowledge of C#
  * Github
+---
+ 
+ ### Code example:
+ ```
+  > function multiply(a, b){
+    return a * b
+    }
+ ```
+ 
+### Courses: 
+ 
+ * ITNation Codifun (2021) - web developing and automation QA
+ * Linkedin courses
+ * QASofttestlab courses (manual qa)
+---
+### English: A2
 
    
  
